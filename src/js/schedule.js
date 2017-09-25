@@ -253,6 +253,13 @@ export default {
     {
       date: '9/25/2017',
       events: [
+        {
+          title: 'Machine Knitting',
+          artist: 'Jordan Graves',
+          type: types.SHOW,
+          description: '',
+          time: '14:00'
+        },
       ]
     },
     {
